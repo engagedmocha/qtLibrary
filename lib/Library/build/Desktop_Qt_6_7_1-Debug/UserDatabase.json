@@ -1,0 +1,35 @@
+{
+    "Admins": [
+        {
+            "name": "Shadroo",
+            "password": "univshadroo",
+            "username": "SHadmin"
+        }
+    ],
+    "Members": [
+        {
+            "borrowed": "0",
+            "name": "admin",
+            "password": "@dm1n",
+            "username": "admin"
+        },
+        {
+            "borrowed": "1",
+            "name": "sina farzad",
+            "password": "mocha52",
+            "username": "engagedmocha"
+        }
+    ],
+    "books": [
+        {
+            "author": "dostoevsky",
+            "available": "1",
+            "title": "crime and punishment"
+        },
+        {
+            "author": "ernest hemingway",
+            "available": "2",
+            "title": "a farewell to arms"
+        }
+    ]
+}
