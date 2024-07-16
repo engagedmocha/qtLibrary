@@ -11,6 +11,10 @@
 
 
 > Note : Compiling this project would only be possible on linux machines( possibly debian based systems only ) because the build system was configured in a certain way.
+
+You can follow the instructions on [**This document**](https://doc.qt.io/qt-5/linux-deployment.html) for application deployment<br>You can also check out [**This qt forum**](https://forum.qt.io/topic/116786/create-linux-executable-for-qt-application) for any question that might arise.
+
+
 ---
 
 ### Main login page
